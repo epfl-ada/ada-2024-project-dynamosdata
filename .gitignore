@@ -1,0 +1,2 @@
+# Not pushing the dataset to the repo
+*.parquet
