@@ -1,2 +1,4 @@
 # Not pushing the 9 GB dataset to the repo
 author_comments_per_video_2018.parquet
+# Neither the 2 GB
+yt_metadata_helper.feather
