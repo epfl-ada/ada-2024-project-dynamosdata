@@ -32,7 +32,7 @@ Together, these methods provided a solid groundwork for understanding how to wor
 
 ### Organization and timelines
 
-- Enlarge the data by filtering ou less data (small changes to do after analysis done in P2). Preprocess yearly data for all years: Decide thresholds for initial filtering, clean data, and prepare it for temporal and other analyses.
+- Enlarge the data by filtering out less data (small changes to do after analysis done in P2). Preprocess yearly data for all years: Decide thresholds for initial filtering, clean data, and prepare it for temporal and other analyses.
 Responsible: Muhammad, Matthieu (Due around December 3rd) 
 - Analysis Pipeline
 Set up and extend the data processing pipeline: Create a robust pipeline for handling larger datasets and scaling analyses.
