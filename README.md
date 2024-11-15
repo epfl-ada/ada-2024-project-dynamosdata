@@ -1,7 +1,7 @@
 # Invisible Influencers – Investigating YouTube’s Bot Phenomenon 
 
 ### Flow diagram explaining how the different notebooks are linked together
-![Flow diagram explaining how the different notebooks are linked together](images/Flow_diagram_commented.png)
+![Flow diagram explaining how the different notebooks are linked together](data/images/Flow_diagram_commented.png)
 
 ### Abstract
 
