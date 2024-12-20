@@ -33,6 +33,6 @@ Network graph analysis provided additional insights, revealing clusters of inter
 ### Organization
 
 - Preprocessing : Muhammad
-- Analysis : Aurélien and Matthieu
+- Analysis : Aurélien, Matthieu and Samuel
 - Website : Amaury
 - Code Quality : Samuel
