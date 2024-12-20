@@ -27,7 +27,7 @@ To explore the relationship between bot activity and video categories, the analy
 
 Network graph analysis provided additional insights, revealing clusters of interconnected channels targeted by bots. This finding suggested that many bot-driven interactions were concentrated within a few key clusters, indicating the operation of bot services across multiple channels, often linked by common suspicious users. The results underscore the growing impact of bots on YouTube’s engagement metrics and demonstrate the effectiveness of comment-based filtering techniques in detecting and understanding bot behavior.
 
-### Organization and timelines
+### Organization
 
 - Preprocessing : Muhammad
 - Analysis : Aurélien and Matthieu
