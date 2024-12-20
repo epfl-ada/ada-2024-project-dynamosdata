@@ -29,6 +29,8 @@ The analysis focused on identifying suspicious user behavior on YouTube, particu
 To explore the relationship between bot activity and video categories, the analysis revealed that bots were more likely to target specific categories, with a significant concentration in the "Howto & Style" section. Further investigation into channel targeting suggested that bots often focused on individual channels, implying they were deployed to enhance engagement on specific content. The engagement metrics indicated that bot-driven videos exhibited a consistent rise in comments over time, with bots maintaining high levels of activity across years.
 
 Network graph analysis provided additional insights, revealing clusters of interconnected channels targeted by bots. This finding suggested that many bot-driven interactions were concentrated within a few key clusters, indicating the operation of bot services across multiple channels, often linked by common suspicious users. The results underscore the growing impact of bots on YouTube’s engagement metrics and demonstrate the effectiveness of comment-based filtering techniques in detecting and understanding bot behavior.
+#### Acknowledgements
+We wanted to acknowledge a few websites that helped us create our report. The first one is [python graph gallery](https://python-graph-gallery.com/) that we leveraged to create a few of our plots. The second is [cosmograph](https://cosmograph.app/) that we used to build our graph visualization.
 
 ### Organization
 
